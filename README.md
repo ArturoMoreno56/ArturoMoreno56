@@ -19,7 +19,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 | | |
-|----------|--------|
+|----------
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-03060d?style=for-the-badge&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-03060d?style=for-the-badge&logo=css3)&nbsp; |
 | **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-03060d?style=for-the-badge&logo=javascript)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-03060d?style=for-the-badge&logo=nodedotjs)&nbsp; |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-03060d.svg?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp; ![SQL Server](https://img.shields.io/badge/SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
