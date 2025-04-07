@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianrmz11&show_icons=true&locale=es&layout=compact&theme=radical" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturoMoreno56&show_icons=true&locale=es&layout=compact&theme=radical" alt="ovi" />
 </div>
 
 <br/>
@@ -29,7 +29,7 @@
 <br/>
 
 <a href="#gh-dark-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianrmz11&theme=github-dark&point=00000000&radius=12" alt="Contribuciones">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoMoreno56&theme=github-dark&point=00000000&radius=12" alt="Contribuciones">
 </a>
 
 <div align="center">
