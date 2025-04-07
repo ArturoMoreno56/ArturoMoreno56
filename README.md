@@ -6,9 +6,9 @@
 
 <div align="center">
 <h4>
-  <img src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?resize=408%2C214&ssl=1"  width="170";>
+  <img src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?resize=408%2C214&ssl=1"  width="190";>
  
-  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="240" title="Keew#0111">
+  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="220" title="Keew#0111">
 </h4>
 </div>
 
