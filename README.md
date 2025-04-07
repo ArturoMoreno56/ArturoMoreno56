@@ -4,11 +4,11 @@
   <h1>Arturo Moremo</h1>
 </div>
 
-<di<div align="center">
+<div align="center">
 <h4>
   <img src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?resize=408%2C214&ssl=1"  width="150";>
  
-  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="150" title="Keew#0111">
+  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="180" title="Keew#0111">
 </h4>
 </div>
 
