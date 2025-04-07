@@ -8,7 +8,7 @@
 <h4>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg"  width="40";>
  
-  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="40" title="Keew#0111">
+  <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" width="80" title="Keew#0111">
 </h4>
 </div>
 
