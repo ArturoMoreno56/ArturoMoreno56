@@ -27,7 +27,7 @@
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-03060d?style=for-the-badge&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-03060d?style=for-the-badge&logo=github)&nbsp; |
 | **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-03060d?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;|
 | **Design Tools** | ![Figma](https://img.shields.io/badge/figma-03060d?style=for-the-badge&logo=figma)&nbsp; ![Canva](https://img.shields.io/badge/-Canva-03060d?style=for-the-badge&logo=canva) | |
-| **Browsers** | ![Firefox](https://img.shields.io/badge/Firefox-03060d?style=for-the-badge&logo=Firefox)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-03060d?style=for-the-badge&logo=GoogleChrome)&nbsp; ![Brave](https://img.shields.io/badge/Brave-03060d?style=for-the-badge&logo=brave) |
+| |
 | | |
 
 <br>
